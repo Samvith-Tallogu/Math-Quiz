@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(orange, yellow);
+}
+#inputsbuttons{
+    text-align: center;
+    padding: 60px;
+}
+
+#output{
+    text-align: left;
+    padding-left: 200px;
+}
