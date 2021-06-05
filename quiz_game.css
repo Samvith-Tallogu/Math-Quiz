@@ -1,25 +1,12 @@
+#output{
+	text-align: left;
+}
 
-button{
-	background-color: snow;
-	width: 25%;
-	height: auto;
-}
-h3{
-background-color: red;
-}
-label{
-	background-color: red;
-}
+
 h2
 {
 	text-align: center;
-	background-color: red;
 }
-.block{
-	background-color: red;
-	text-align: center;
-}
-.middle{
-	text-align: center;
-	width: 10cm;
+body{
+	background-image: linear-gradient(orange, yellow);
 }
